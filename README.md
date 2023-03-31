@@ -1,5 +1,6 @@
 # 2048 Game
 [DEMO LINK](https://vanyachyzh.github.io/game_2048/)
+
 This is a browser-based implementation of the popular 2048 game using JavaScript, CSS, HTML, and SCSS. The game is built using Object-Oriented Programming (OOP) principles, making it easy to maintain and extend.
 
 ## Game Rules
@@ -20,7 +21,7 @@ The game ends when the player reaches the 2048 tile or there are no more possibl
 
 This project was built using the following technologies:
 
-JavaScript
-CSS
-HTML
-SCSS
+1. JavaScript
+2. CSS
+3. HTML
+4. SCSS
